@@ -1,1 +1,2 @@
 
+This circuit can be used to sense the obstacles in front, if the obstacle is within the given range, the led glows and alerts the system and the motor rotates so as to slow down the system, if the distance increases again the led turns off and motor goes back to its original state.
